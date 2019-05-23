@@ -3,7 +3,6 @@ import crafttweaker.item.IItemStack;
 
 //remove recipes
 recipes.remove(<jlgm_chatbox:chatbox>);
-recipes.remove(<minecraft:dispenser>);
 recipes.remove(<quark:glass_item_frame>);
 recipes.remove(<quark:polished_netherrack>);
 recipes.remove(<quark:polished_stone>);
@@ -13,13 +12,6 @@ recipes.addShaped("CTchatbox", <jlgm_chatbox:chatbox>, [
     [<minecraft:cobblestone>, <minecraft:iron_ingot>, <minecraft:cobblestone>],
     [<minecraft:iron_ingot>, <minecraft:noteblock>, <minecraft:iron_ingot>],
     [<minecraft:cobblestone>, <minecraft:iron_ingot>, <minecraft:cobblestone>]
-]);
-
-//dispenser with any type of bow
-recipes.addShaped("CTdispenser", <minecraft:dispenser>, [
-    [<minecraft:cobblestone>, <minecraft:cobblestone>, <minecraft:cobblestone>],
-    [<minecraft:cobblestone>, <minecraft:bow:4>.anyDamage(), <minecraft:cobblestone>],
-    [<minecraft:cobblestone>, <minecraft:redstone>, <minecraft:cobblestone>]
 ]);
 
 //glass item frame
