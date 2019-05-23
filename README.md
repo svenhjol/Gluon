@@ -13,4 +13,4 @@ Most of the additional content is added by 3 carefully configured mods which are
 - Quark
 - Redstone++
 
-It also ships with a few client-side mods to make life a bit easier for the player, some tweaks to recipes, worldgen and loot tables, texture changes and small mods that change single things like the hopper hitbox or XP orbs bunching up.
+It also ships with a few client-side mods to make life a bit easier for the player, some tweaks to recipes, worldgen and loot tables, fixes for vanilla bugs, texture changes and small mods that change single things like the hopper hitbox or XP orbs bunching up.
