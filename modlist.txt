@@ -1,0 +1,33 @@
+minecraft - Minecraft - 1.12.2
+mcp - Minecraft Coder Pack - 9.42
+FML - Forge Mod Loader - 8.0.99.99
+forge - Minecraft Forge - 14.23.5.2836
+dsurroundcore - DynamicSurroundingsCore - 3.5.4.3
+quark - Quark - r1.5-152
+autoreglib - AutoRegLib - 1.3-28
+bbor - Bounding Box Outline Reloaded - 1.0.3
+sandro - Sandro's Core - 1.3 BETA-2
+redstoneplusplus - Redstone++ - 1.3 BETA-2
+charm - Charm - 1.12.2-1.1.0-beta3
+clumps - Clumps - 3.1.1
+craftpresence - CraftPresence - v1.5.3.1
+crafttweaker - CraftTweaker2 - 4.1.17
+ctgui - CT-GUI - 1.0.0
+crafttweakerjei - CraftTweaker JEI Support - 2.0.3
+diethopper - Diet Hopper - 1.1
+equaldragons - EqualDragons - 1.1
+itemscroller - Item Scroller - 0.12.0
+jlgm_chatbox - Chat Box - 1.3.1
+llor - Light Level Overlay Reloaded - 1.1.6-mc1.12.2
+minihud - Mini HUD - 0.13.1
+mup - EigenCraft Unofficial Patch - 1.2.2
+nofov - No FOV - 1.0.1
+nomoreglowingpots - NoMoreGlowingPots - 1.2
+orecontrol - Ore Control - 0.4.3
+resourceloader - Resource Loader - 1.5.3
+stg - SwingThroughGrass - 1.12.2-1.2.3
+xaerominimap - Xaero's Minimap - 1.16.9
+xaeroworldmap - Xaero's World Map - 1.3.4.1
+orelib - OreLib Support Library - 3.5.2.2
+dsurround - Dynamic Surroundings - 3.5.4.3
+reauth - ReAuth - 3.6.0
