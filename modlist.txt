@@ -8,7 +8,7 @@ autoreglib - AutoRegLib - 1.3-28
 bbor - Bounding Box Outline Reloaded - 1.0.3
 sandro - Sandro's Core - 1.3 BETA-2
 redstoneplusplus - Redstone++ - 1.3 BETA-2
-charm - Charm - 1.12.2-1.1.0-beta3
+charm - Charm - 1.12.2-1.1.0-beta4
 clumps - Clumps - 3.1.1
 craftpresence - CraftPresence - v1.5.3.1
 crafttweaker - CraftTweaker2 - 4.1.17
