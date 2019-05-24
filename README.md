@@ -17,6 +17,5 @@ It also ships with a few client-side mods to make life a bit easier for the play
 
 ---
 Links:
-
-Discord: https://discord.gg/KPkuf6m
-Curseforge: soon (tm)
+- Discord: https://discord.gg/KPkuf6m
+- Curseforge: soon (tm)
