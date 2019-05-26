@@ -2,7 +2,6 @@ minecraft - Minecraft - 1.12.2
 mcp - Minecraft Coder Pack - 9.42
 FML - Forge Mod Loader - 8.0.99.99
 forge - Minecraft Forge - 14.23.5.2836
-dsurroundcore - DynamicSurroundingsCore - 3.5.4.3
 quark - Quark - r1.5-154
 autoreglib - AutoRegLib - 1.3-30
 bbor - Bounding Box Outline Reloaded - 1.0.3
@@ -28,6 +27,4 @@ resourceloader - Resource Loader - 1.5.3
 stg - SwingThroughGrass - 1.12.2-1.2.3
 xaerominimap - Xaero's Minimap - 1.16.9
 xaeroworldmap - Xaero's World Map - 1.3.4.1
-orelib - OreLib Support Library - 3.5.2.2
-dsurround - Dynamic Surroundings - 3.5.4.3
 reauth - ReAuth - 3.6.0
