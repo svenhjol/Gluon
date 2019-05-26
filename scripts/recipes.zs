@@ -3,6 +3,7 @@ import crafttweaker.item.IItemStack;
 
 //remove recipes
 recipes.remove(<jlgm_chatbox:chatbox>);
+recipes.remove(<lowtechcrafting:crafting_table>);
 recipes.remove(<quark:glass_item_frame>);
 recipes.remove(<quark:polished_netherrack>);
 recipes.remove(<quark:polished_stone>);
@@ -22,6 +23,13 @@ recipes.addShaped("CTgapple", <minecraft:golden_apple:1>, [
     [<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>],
     [<minecraft:gold_block>, <minecraft:apple>, <minecraft:gold_block>],
     [<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>]
+]);
+
+//lowtech crafting table
+recipes.addShaped("CTautocrafting", <lowtechcrafting:crafting_table>, [
+    [<minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot>],
+    [<minecraft:dye:4>, <minecraft:crafting_table>, <minecraft:dye:4>],
+    [<minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot>]
 ]);
 
 //netherwart block to netherwart
