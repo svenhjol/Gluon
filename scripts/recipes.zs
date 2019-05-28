@@ -7,6 +7,7 @@ recipes.remove(<lowtechcrafting:crafting_table>);
 recipes.remove(<quark:glass_item_frame>);
 recipes.remove(<quark:polished_netherrack>);
 recipes.remove(<quark:polished_stone>);
+recipes.remove(<quark:sturdy_stone>);
 
 //chatbox
 recipes.addShaped("CTchatbox", <jlgm_chatbox:chatbox>, [
@@ -56,4 +57,10 @@ recipes.addShaped("CTsoulsand", <minecraft:soul_sand> *4, [
     [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>],
     [<ore:sand>, <quark:soul_bead>, <ore:sand>],
     [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>]
+]);
+
+//sturdy stone
+recipes.addShaped("CTsturdystone", <quark:sturdy_stone> *4, [
+    [<minecraft:cobblestone>, <minecraft:cobblestone>],
+    [<minecraft:cobblestone>, <minecraft:cobblestone>]
 ]);
