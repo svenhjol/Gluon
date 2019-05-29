@@ -60,7 +60,7 @@ recipes.addShaped("CTsoulsand", <minecraft:soul_sand> *4, [
 ]);
 
 //sturdy stone
-recipes.addShaped("CTsturdystone", <quark:sturdy_stone> *4, [
+recipes.addShaped("CTsturdystone", <quark:sturdy_stone>, [
     [<minecraft:cobblestone>, <minecraft:cobblestone>],
     [<minecraft:cobblestone>, <minecraft:cobblestone>]
 ]);
