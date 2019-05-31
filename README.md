@@ -15,6 +15,8 @@ Most of the additional content is added by 3 carefully configured mods which are
 
 Gluon also ships with a few client-side mods to make life a bit easier for the player, some additions and tweaks to recipes, worldgen and loot tables, fixes for vanilla bugs, texture changes and small mods that change single things like the hopper hitbox or XP-orbs bunching up.
 
+The mod list might look small but the impact of the new features and the attention to detail are what make this pack!
+
 ---
 Links:
 - Discord: https://discord.gg/KPkuf6m
