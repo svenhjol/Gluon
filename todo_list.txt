@@ -1,11 +1,14 @@
 - investigate glitchy behaviour when trying to place blocks after loading a save
 - investigate why husks seem to use zombie sounds and regular husk sounds
 - better loot tables that are aware of looting, cobwebs from cave spiders should match wither skeleton skull chance
-- potentially another texture for water and magma blocks
-- make a list of client side mods people can disable without breaking the pack
+- potentially another texture for water, magma blocks and dusk bound blocks
+- different recipe for dusk bound blocks using popped chorus and endermite powder
+- low fire texture when player is burning (see: vanillatweaks resourcepack)
+- adjust sound for quark wraiths and maybe fine tune their spawning weight
+- make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
 - end city generation (probably needs to be handled by a mod)
 - potentially custom advancements
-- find a sweet spot for oregen, potentially even more biome specific ore spawn
+- find a sweet spot for oregen, potentially more biome specific ore spawn
 - test if dungeon rarity feels right
 - chest loot tables (seems rather minor)
 - come up with unique concepts for renewable sand, gravel, soulsand and totems of undying (probably need to be handled by a mod to be more than half decent)
