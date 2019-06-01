@@ -4,6 +4,8 @@ import crafttweaker.item.IItemStack;
 //remove recipes
 recipes.remove(<jlgm_chatbox:chatbox>);
 recipes.remove(<lowtechcrafting:crafting_table>);
+recipes.remove(<quark:duskbound_block>);
+recipes.remove(<quark:duskbound_lantern>);
 recipes.remove(<quark:glass_item_frame>);
 recipes.remove(<quark:polished_netherrack>);
 recipes.remove(<quark:polished_stone>);
@@ -14,6 +16,20 @@ recipes.addShaped("CTchatbox", <jlgm_chatbox:chatbox>, [
     [<minecraft:cobblestone>, <minecraft:iron_ingot>, <minecraft:cobblestone>],
     [<minecraft:iron_ingot>, <minecraft:noteblock>, <minecraft:iron_ingot>],
     [<minecraft:cobblestone>, <minecraft:iron_ingot>, <minecraft:cobblestone>]
+]);
+
+//duskbound block
+recipes.addShaped("CTduskblock", <quark:duskbound_block> *8, [
+    [<minecraft:purpur_block>, <minecraft:purpur_block>, <minecraft:purpur_block>],
+    [<minecraft:purpur_block>, <charm:endermite_powder>, <minecraft:purpur_block>],
+    [<minecraft:purpur_block>, <minecraft:purpur_block>, <minecraft:purpur_block>]
+]);
+
+//duskbound lantern
+recipes.addShaped("CTdusklantern", <quark:duskbound_lantern>, [
+    [null, <minecraft:end_rod>, null],
+    [<minecraft:end_rod>, <quark:duskbound_block>, <minecraft:end_rod>],
+    [null, <minecraft:end_rod>, null]
 ]);
 
 //glass item frame
