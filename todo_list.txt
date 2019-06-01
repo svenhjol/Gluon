@@ -2,6 +2,7 @@
 - investigate why husks seem to use zombie sounds and regular husk sounds
 - better loot tables that are aware of looting, cobwebs from cave spiders should match wither skeleton skull chance
 - potentially another texture for water, magma blocks
+- vanilla 1.13+ textures for trapdoors
 - low fire texture when player is burning (see: vanillatweaks resourcepack)
 - adjust sound for quark wraiths and maybe fine tune their spawning weight
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
