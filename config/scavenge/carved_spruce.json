@@ -1,0 +1,39 @@
+{
+    "block_pools": [
+        {
+            "name": "CarvedSpruce",
+            "type": {
+                "type": "block",
+                "name": "quark:bark",
+                "meta": 1
+            },
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "consume_block",
+                    "name": "quark:carved_wood",
+                    "meta": 1
+                },
+                {
+                    "type": "require_tool",
+                    "tool": "axe",
+                    "level": 0
+                },
+                {
+                    "type": "damage_item",
+                    "amount": 1
+                },
+                {
+                    "type": "swing_hand",
+                    "disableJEI": true
+                }
+            ],
+            "messages": [
+                {
+                    "id": "require_tool",
+                    "message": "You must hold an axe to do that!"
+                }
+            ]
+        }
+    ]
+}
