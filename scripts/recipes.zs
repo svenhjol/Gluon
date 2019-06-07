@@ -4,6 +4,12 @@ import crafttweaker.item.IItemStack;
 //remove recipes
 recipes.remove(<jlgm_chatbox:chatbox>);
 recipes.remove(<lowtechcrafting:crafting_table>);
+recipes.remove(<quark:carved_wood>);
+recipes.remove(<quark:carved_wood:1>);
+recipes.remove(<quark:carved_wood:2>);
+recipes.remove(<quark:carved_wood:3>);
+recipes.remove(<quark:carved_wood:4>);
+recipes.remove(<quark:carved_wood:5>);
 recipes.remove(<quark:duskbound_block>);
 recipes.remove(<quark:duskbound_lantern>);
 recipes.remove(<quark:glass_item_frame>);
