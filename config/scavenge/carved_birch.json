@@ -27,12 +27,6 @@
                     "type": "swing_hand",
                     "disableJEI": true
                 }
-            ],
-            "messages": [
-                {
-                    "id": "require_tool",
-                    "message": "You must hold an axe to do that!"
-                }
             ]
         }
     ]
