@@ -4,7 +4,6 @@
 - better loot tables that are aware of looting, cobwebs from cave spiders should match wither skeleton skull chance
 - potentially another texture for water, magma blocks
 - vanilla 1.13+ textures for trapdoors
-- remove middle dots from quark carved wood
 - low fire texture when player is burning (see: vanillatweaks resourcepack)
 - adjust sound for quark wraiths and maybe fine tune their spawning weight
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
@@ -14,8 +13,8 @@
 - test if dungeon rarity feels right
 - chest loot tables (seems rather minor)
 - come up with unique concepts for renewable sand, gravel, soulsand and totems of undying (probably need to be handled by a mod to be more than half decent)
+- add sound for wood carving (scavenge)
 
 mods that could be interesting to look at:
 better swiming			seemed very beta last time I checked
 just a few fish			debatable if fish add much
-ore stone variants		could result in too many items which would be annoying
