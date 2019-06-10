@@ -65,6 +65,14 @@ recipes.addShaped("CTpackedice", <minecraft:packed_ice>, [
     [<minecraft:ice>, <minecraft:ice>, <minecraft:ice>]
 ]);
 
+//planks from carved wood
+recipes.addShapeless("CTplank0", <minecraft:planks> *4, [<quark:carved_wood>]);
+recipes.addShapeless("CTplank1", <minecraft:planks:1> *4, [<quark:carved_wood:1>]);
+recipes.addShapeless("CTplank2", <minecraft:planks:2> *4, [<quark:carved_wood:2>]);
+recipes.addShapeless("CTplank3", <minecraft:planks:3> *4, [<quark:carved_wood:3>]);
+recipes.addShapeless("CTplank4", <minecraft:planks:4> *4, [<quark:carved_wood:4>]);
+recipes.addShapeless("CTplank5", <minecraft:planks:5> *4, [<quark:carved_wood:5>]);
+
 //polished netherrack
 recipes.addShaped("CTpolishednetherrack", <quark:polished_netherrack> *4, [
     [<minecraft:netherrack>, <minecraft:netherrack>],
