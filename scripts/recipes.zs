@@ -89,6 +89,11 @@ recipes.addShaped("CTsoulsand", <minecraft:soul_sand> *4, [
     [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>]
 ]);
 
+//stone slabs from polished stone
+recipes.addShaped("CTstoneslab", <minecraft:stone_slab> *6, [
+    [<quark:polished_stone>, <quark:polished_stone>, <quark:polished_stone>]
+]);
+
 //sturdy stone
 recipes.addShaped("CTsturdystone", <quark:sturdy_stone>, [
     [<minecraft:cobblestone>, <minecraft:cobblestone>],
