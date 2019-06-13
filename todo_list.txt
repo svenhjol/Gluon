@@ -4,7 +4,7 @@
 - potentially another texture for water, magma blocks
 - vanilla 1.13+ textures for trapdoors
 - low fire texture when player is burning (see: vanillatweaks resourcepack)
-- adjust sound for quark wraiths and maybe fine tune their spawning weight
+- fine tune wraith spawning weight
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
 - end city generation (probably needs to be handled by a mod)
 - potentially custom advancements
