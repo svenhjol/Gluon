@@ -2,7 +2,7 @@ minecraft - Minecraft - 1.12.2
 mcp - Minecraft Coder Pack - 9.42
 FML - Forge Mod Loader - 8.0.99.99
 forge - Minecraft Forge - 14.23.5.2838
-quark - Quark - r1.5-158
+quark - Quark - r1.5-159
 autoreglib - AutoRegLib - 1.3-30
 bbor - Bounding Box Outline Reloaded - 1.0.3
 sandro - Sandro's Core - 1.3 BETA-2
@@ -10,7 +10,7 @@ redstoneplusplus - Redstone++ - 1.3 BETA-2
 charm - Charm - 1.12.2-1.1.12
 clumps - Clumps - 3.1.1
 craftpresence - CraftPresence - v1.5.5
-crafttweaker - CraftTweaker2 - 4.1.17
+crafttweaker - CraftTweaker2 - 4.1.19
 ctgui - CT-GUI - 1.0.0
 crafttweakerjei - CraftTweaker JEI Support - 2.0.3
 diethopper - Diet Hopper - 1.1
