@@ -2,6 +2,7 @@ minecraft - Minecraft - 1.12.2
 mcp - Minecraft Coder Pack - 9.42
 FML - Forge Mod Loader - 8.0.99.99
 forge - Minecraft Forge - 14.23.5.2838
+aerialaffinity - Aerial Affinity - @VERSION@
 quark - Quark - r1.5-159
 autoreglib - AutoRegLib - 1.3-30
 bbor - Bounding Box Outline Reloaded - 1.0.3
