@@ -17,6 +17,10 @@ recipes.remove(<quark:polished_netherrack>);
 recipes.remove(<quark:polished_stone>);
 recipes.remove(<quark:sturdy_stone>);
 
+//remove by name
+recipes.removeByRecipeName("quark:iron_plate");
+recipes.removeByRecipeName("quark:iron_plate_1");
+
 //chatbox
 recipes.addShaped("CTchatbox", <jlgm_chatbox:chatbox>, [
     [<minecraft:cobblestone>, <minecraft:iron_ingot>, <minecraft:cobblestone>],
@@ -46,6 +50,13 @@ recipes.addShaped("CTgapple", <minecraft:golden_apple:1>, [
     [<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>],
     [<minecraft:gold_block>, <minecraft:apple>, <minecraft:gold_block>],
     [<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>]
+]);
+
+//iron plate
+recipes.addShaped("CTironplate", <quark:iron_plate> *16, [
+    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
+    [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
+    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]
 ]);
 
 //lowtech crafting table
