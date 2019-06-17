@@ -11,7 +11,6 @@
 - test if dungeon rarity feels right
 - chest loot tables (seems rather minor)
 - come up with unique concepts for renewable sand, gravel, soulsand and totems of undying (probably need to be handled by a mod to be more than half decent)
-- add sound for wood carving (scavenge)
 
 mods that could be interesting to look at:
 better swiming			seemed very beta last time I checked
