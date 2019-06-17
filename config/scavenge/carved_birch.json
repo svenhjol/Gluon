@@ -24,6 +24,13 @@
                     "amount": 1
                 },
                 {
+                    "type": "play_sound",
+                    "name": "minecraft:entity.armorstand.break",
+                    "category": "master",
+                    "pitch": 1.0,
+                    "disableJEI": true
+                },
+                {
                     "type": "swing_hand",
                     "disableJEI": true
                 }
