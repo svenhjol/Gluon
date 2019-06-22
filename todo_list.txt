@@ -4,7 +4,6 @@
 - better loot tables that are aware of looting, cobwebs from cave spiders should match wither skeleton skull chance
 - potentially another texture for water
 - vanilla 1.13+ textures for trapdoors
-- low fire texture when player is burning (see: vanillatweaks resourcepack)
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
 - end city generation (probably needs to be handled by a mod)
 - potentially custom advancements
@@ -15,5 +14,4 @@
 
 mods that could be interesting to look at:
 better swiming			seemed very beta last time I checked
-just a few fish			debatable if fish add much
 ore stone variants		should work with quark now (?)
