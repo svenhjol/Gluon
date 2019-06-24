@@ -100,6 +100,13 @@ recipes.addShaped("CTsoulsand", <minecraft:soul_sand> *4, [
     [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>]
 ]);
 
+//saddle
+recipes.addShaped("CTsaddle", <minecraft:saddle>, [
+    [<minecraft:leather>, <minecraft:leather>, <minecraft:leather>],
+    [<minecraft:string>, null, <minecraft:string>],
+    [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>]
+]);
+
 //stone slabs from polished stone
 recipes.addShaped("CTstoneslab", <minecraft:stone_slab> *6, [
     [<quark:polished_stone>, <quark:polished_stone>, <quark:polished_stone>]
