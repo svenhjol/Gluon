@@ -4,12 +4,12 @@ FML - Forge Mod Loader - 8.0.99.99
 forge - Minecraft Forge - 14.23.5.2838
 aerialaffinity - Aerial Affinity - @VERSION@
 arrowharvest - Arrow HarvestMod - 1.12.2-1.0.2
-quark - Quark - r1.5-163
+quark - Quark - r1.5-164
 autoreglib - AutoRegLib - 1.3-30
 bbor - Bounding Box Outline Reloaded - 1.0.3
 sandro - Sandro's Core - 1.3 BETA-2
 redstoneplusplus - Redstone++ - 1.3 BETA-2
-charm - Charm - 1.12.2-1.1.13-alpha5
+charm - Charm - 1.12.2-1.2.0-alpha1
 clumps - Clumps - 3.1.1
 craftpresence - CraftPresence - v1.5.5
 crafttweaker - CraftTweaker2 - 4.1.19
