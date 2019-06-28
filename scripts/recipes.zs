@@ -93,6 +93,9 @@ recipes.addShaped("CTpolishednetherrack", <quark:polished_netherrack> *4, [
 //polished stone in furnace
 furnace.addRecipe(<quark:polished_stone>, <minecraft:stone>);
 
+//quartz in furnace
+furnace.addRecipe(<minecraft:quartz>, <minecraft:ghast_tear>);
+
 //soulsand from soul beads and sand
 recipes.addShaped("CTsoulsand", <minecraft:soul_sand> *4, [
     [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>],
