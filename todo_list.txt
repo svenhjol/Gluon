@@ -1,6 +1,5 @@
 - investigate glitchy behaviour when trying to place blocks after loading a save
 - investigate why husks seem to use zombie sounds and regular husk sounds
-- investigate why the quark texture changes don't show up when initially loading a save but work if you reload with F3+T
 - better loot tables that are aware of looting, cobwebs from cave spiders should match wither skeleton skull chance
 - potentially another texture for water
 - vanilla 1.13+ textures for trapdoors
