@@ -6,7 +6,7 @@ aerialaffinity - Aerial Affinity - @VERSION@
 arrowharvest - Arrow HarvestMod - 1.12.2-1.0.3
 quark - Quark - r1.5-167
 autoreglib - AutoRegLib - 1.3-31
-bbor - Bounding Box Outline Reloaded - 1.0.12
+bbor - Bounding Box Outline Reloaded - 1.0.3
 betteradvancements - Better Advancements - 0.1.0.77
 sandro - Sandro's Core - 1.3 BETA-2
 redstoneplusplus - Redstone++ - 1.3 BETA-2
