@@ -4,7 +4,7 @@ FML - Forge Mod Loader - 8.0.99.99
 forge - Minecraft Forge - 14.23.5.2838
 aerialaffinity - Aerial Affinity - @VERSION@
 arrowharvest - Arrow HarvestMod - 1.12.2-1.0.3
-quark - Quark - r1.5-167
+quark - Quark - r1.5-168
 autoreglib - AutoRegLib - 1.3-31
 bbor - Bounding Box Outline Reloaded - 1.0.3
 betteradvancements - Better Advancements - 0.1.0.77
