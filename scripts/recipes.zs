@@ -96,13 +96,6 @@ furnace.addRecipe(<quark:polished_stone>, <minecraft:stone>, 0.100000);
 //quartz in furnace
 furnace.addRecipe(<minecraft:quartz>, <minecraft:ghast_tear>, 0.200000);
 
-//soulsand from soul beads and sand
-recipes.addShaped("CTsoulsand", <minecraft:soul_sand> *4, [
-    [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>],
-    [<ore:sand>, <quark:soul_bead>, <ore:sand>],
-    [<quark:soul_bead>, <ore:sand>, <quark:soul_bead>]
-]);
-
 //saddle
 recipes.addShaped("CTsaddle", <minecraft:saddle>, [
     [<minecraft:leather>, <minecraft:leather>, <minecraft:leather>],
