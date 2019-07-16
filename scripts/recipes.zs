@@ -71,9 +71,8 @@ recipes.addShapeless("CTnetherwart", <minecraft:nether_wart> *9, [<minecraft:net
 
 //packed ice
 recipes.addShaped("CTpackedice", <minecraft:packed_ice>, [
-    [<minecraft:ice>, <minecraft:ice>, <minecraft:ice>],
-    [<minecraft:ice>, <minecraft:ice>, <minecraft:ice>],
-    [<minecraft:ice>, <minecraft:ice>, <minecraft:ice>]
+    [<minecraft:ice>, <minecraft:ice>],
+    [<minecraft:ice>, <minecraft:ice>]
 ]);
 
 //planks from carved wood
