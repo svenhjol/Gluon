@@ -1,5 +1,6 @@
 - investigate glitchy behaviour when trying to place blocks after loading a save
 - investigate why husks seem to use zombie sounds and regular husk sounds
+- potentially remove five feet small if the spectator mode issue doesn't get fixed
 - potentially another texture for water
 - vanilla 1.13+ textures for trapdoors
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
