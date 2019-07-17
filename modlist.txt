@@ -33,6 +33,6 @@ resourceloader - Resource Loader - 1.5.3
 scavenge - Scavenge - 1.8
 schematica - Schematica - 1.8.0.169
 stg - SwingThroughGrass - 1.12.2-1.2.3
-xaerominimap - Xaero's Minimap - 1.17.3
-xaeroworldmap - Xaero's World Map - 1.4
+xaerominimap - Xaero's Minimap - 1.17.4
+xaeroworldmap - Xaero's World Map - 1.4.3
 reauth - ReAuth - 3.6.0
