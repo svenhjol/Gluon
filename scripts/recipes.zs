@@ -13,6 +13,7 @@ recipes.remove(<quark:carved_wood:5>);
 recipes.remove(<quark:duskbound_block>);
 recipes.remove(<quark:duskbound_lantern>);
 recipes.remove(<quark:glass_item_frame>);
+recipes.remove(<quark:magma_bricks>);
 recipes.remove(<quark:polished_netherrack>);
 recipes.remove(<quark:polished_stone>);
 recipes.remove(<quark:sturdy_stone>);
@@ -64,6 +65,12 @@ recipes.addShaped("CTautocrafting", <lowtechcrafting:crafting_table>, [
     [<minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot>],
     [<minecraft:dye:4>, <minecraft:crafting_table>, <minecraft:dye:4>],
     [<minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot>]
+]);
+
+//magma bricks
+recipes.addShapedMirrored("CTmagmabricks", <quark:magma_bricks> *4, [
+    [<minecraft:magma>, <quark:polished_netherrack:1>],
+    [<quark:polished_netherrack:1>, <minecraft:magma>]
 ]);
 
 //netherwart block to netherwart
