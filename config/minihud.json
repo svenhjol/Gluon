@@ -16,7 +16,7 @@
     "sortLinesReversed": false,
     "useCustomizedCoordinateFormat": true,
     "useFontShadow": true,
-    "useTextBackground": false,
+    "useTextBackground": true,
     "toggleKey": {
       "keys": "H",
       "settings": {
@@ -88,7 +88,7 @@
     "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
     "droppedChunksHashSize": -1,
-    "fontScale": 0.5,
+    "fontScale": 0.7,
     "lightLevelMarkerSize": 0.84,
     "lightLevelNumberOffsetBlockX": 0.09,
     "lightLevelNumberOffsetBlockY": 0.12,
