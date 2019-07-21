@@ -18,11 +18,11 @@ crafttweakerjei - CraftTweaker JEI Support - 2.0.3
 diethopper - Diet Hopper - 1.1
 equaldragons - EqualDragons - 1.1
 fivefeetsmall - Five Feet Small - 1.0
-itemscroller - Item Scroller - 0.12.0
+itemscroller - Item Scroller - 0.15.0-dev.20190720.235518
 jlgm_chatbox - Chat Box - 1.3.1
-lowtechcrafting - Low Tech Crafting - 0.1.4
-lunatriuscore - LunatriusCore - 1.2.0.42
 malilib - MaLiLib - 0.10.0-dev.21.pre2
+litematica - Litematica - 0.0.0-dev.20190721.023803
+lowtechcrafting - Low Tech Crafting - 0.1.4
 minihud - MiniHUD - 0.19.0-dev.20190720.020101
 mup - EigenCraft Unofficial Patch - 1.2.2
 nofov - No FOV - 1.0.1
@@ -30,8 +30,8 @@ nomoreglowingpots - NoMoreGlowingPots - 1.2
 orecontrol - Ore Control - 0.4.3
 resourceloader - Resource Loader - 1.5.3
 scavenge - Scavenge - 1.8
-schematica - Schematica - 1.8.0.169
 stg - SwingThroughGrass - 1.12.2-1.2.3
+tweakeroo - Tweakeroo - 0.10.0-dev.20190721.022947
 xaerominimap - Xaero's Minimap - 1.17.4
 xaeroworldmap - Xaero's World Map - 1.4.3
 reauth - ReAuth - 3.6.0
