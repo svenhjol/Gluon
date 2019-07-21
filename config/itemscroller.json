@@ -1,0 +1,31 @@
+{
+  "Lists": {
+    "guiBlacklist": [],
+    "slotBlacklist": []
+  },
+  "Generic": {
+    "carpetCtrlQCraftingEnabledOnServer": false,
+    "clientCraftingFixOn1.12": true,
+    "craftingRenderRecipeItems": true,
+    "craftingRecipesSaveToFile": true,
+    "craftingRecipesSaveFileIsGlobal": true,
+    "reverseScrollDirectionSingle": false,
+    "reverseScrollDirectionStacks": false,
+    "useSlotPositionAwareScrollDirection": false,
+    "villagerTradeListRememberPage": true
+  },
+  "Toggles": {
+    "enableCraftingFeatures": true,
+    "enableDropkeyDropMatching": true,
+    "enableRightClickCraftingOneStack": true,
+    "enableScrollingEverything": true,
+    "enableScrollingMatchingStacks": true,
+    "enableScrollingSingle": true,
+    "enableScrollingStacks": true,
+    "enableScrollingStacksFallback": true,
+    "enableScrollingVillager": true,
+    "enableShiftDropItems": true,
+    "enableShiftPlaceItems": true,
+    "enableVillagerTradeList": true
+  }
+}
