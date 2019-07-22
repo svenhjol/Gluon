@@ -27,5 +27,379 @@
     "enableShiftDropItems": true,
     "enableShiftPlaceItems": true,
     "enableVillagerTradeList": true
+  },
+  "Hotkeys": {
+    "openConfigGui": {
+      "keys": "I,C",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "modifierMoveEverything": {
+      "keys": "LMENU,LSHIFT",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "modifierMoveMatching": {
+      "keys": "LMENU",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "modifierMoveStack": {
+      "keys": "LSHIFT",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyMoveEverything": {
+      "keys": "LMENU,LSHIFT,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragMoveStacks": {
+      "keys": "LSHIFT,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragMoveLeaveOne": {
+      "keys": "LSHIFT,BUTTON1",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragMoveMatching": {
+      "keys": "LMENU,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragMoveOne": {
+      "keys": "LCONTROL,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragDropLeaveOne": {
+      "keys": "LSHIFT,Q,BUTTON1",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragDropSingle": {
+      "keys": "Q,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "keyDragDropStacks": {
+      "keys": "LSHIFT,Q,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "craftEverything": {
+      "keys": "LCONTROL,C",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "dropAllMatching": {
+      "keys": "LCONTROL,LSHIFT,Q",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "mainToggle": {
+      "keys": "LCONTROL,S",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "massCraft": {
+      "keys": "LCONTROL,LMENU,C",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "moveCraftResults": {
+      "keys": "LCONTROL,M",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "moveStackToOffhand": {
+      "keys": "F",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "recipeView": {
+      "keys": "A",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": false
+      }
+    },
+    "slotDebug": {
+      "keys": "LCONTROL,LMENU,LSHIFT,I",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "storeRecipe": {
+      "keys": "BUTTON2",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "throwCraftResults": {
+      "keys": "LCONTROL,T",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "villagerTradeFavorites": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveDownLeaveOne": {
+      "keys": "S,BUTTON1",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveDownMatching": {
+      "keys": "LMENU,S,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveDownSingle": {
+      "keys": "S,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveDownStacks": {
+      "keys": "LSHIFT,S,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveUpLeaveOne": {
+      "keys": "W,BUTTON1",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveUpMatching": {
+      "keys": "LMENU,W,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveUpSingle": {
+      "keys": "W,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "wsMoveUpStacks": {
+      "keys": "LSHIFT,W,BUTTON0",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    }
   }
 }
