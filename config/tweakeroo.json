@@ -137,7 +137,7 @@
     "tweakFastRightClick": false,
     "tweakFillCloneLimit": false,
     "tweakFlySpeed": false,
-    "tweakFlexibleBlockPlacement": false,
+    "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
     "tweakFreeCameraMotion": false,
     "tweakGammaOverride": false,
@@ -1869,6 +1869,6 @@
     "gammaValueOriginal": 1.0,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
-    "snapAimLastYaw": 315.0
+    "snapAimLastYaw": 0.0
   }
 }
