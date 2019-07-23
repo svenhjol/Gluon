@@ -13,6 +13,7 @@ recipes.remove(<quark:carved_wood:4>);
 recipes.remove(<quark:carved_wood:5>);
 recipes.remove(<quark:duskbound_block>);
 recipes.remove(<quark:duskbound_lantern>);
+recipes.remove(<quark:framed_glass>);
 recipes.remove(<quark:glass_item_frame>);
 recipes.remove(<quark:magma_bricks>);
 recipes.remove(<quark:charred_nether_bricks>);
@@ -50,6 +51,13 @@ recipes.addShaped("CTdusklantern", <quark:duskbound_lantern>, [
     [null, <minecraft:end_rod>, null],
     [<minecraft:end_rod>, <quark:duskbound_block>, <minecraft:end_rod>],
     [null, <minecraft:end_rod>, null]
+]);
+
+//framed glass
+recipes.addShaped("CTframedglass", <quark:framed_glass> *4, [
+    [<minecraft:iron_ingot>, <minecraft:glass>, <minecraft:iron_ingot>],
+    [<minecraft:glass>, <minecraft:iron_ingot>, <minecraft:glass>],
+    [<minecraft:iron_ingot>, <minecraft:glass>, <minecraft:iron_ingot>]
 ]);
 
 //glass item frame
