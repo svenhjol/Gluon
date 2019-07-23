@@ -8,6 +8,7 @@
 - test if dungeon rarity feels right
 - come up with unique concepts for renewable sand, gravel and totems of undying (probably need to be handled by a mod to be more than half decent)
 - with new quark version: resistance potions from quartz to crab shell, knock back immunity potions from crab shell to soul beads (crafttweaker)
+- with new quark version: remove colored slimes and their recipes but the red one, recolor to orange, rename and make recipe use 9 magma cream
 
 mods that could be interesting to look at:
 better swiming			seemed very beta last time I checked
