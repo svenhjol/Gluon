@@ -79,9 +79,9 @@ recipes.addShaped("CTironplate", <quark:iron_plate> *16, [
 
 //lowtech crafting table
 recipes.addShaped("CTautocrafting", <lowtechcrafting:crafting_table>, [
-    [<minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot>],
-    [<minecraft:dye:4>, <minecraft:crafting_table>, <minecraft:dye:4>],
-    [<minecraft:iron_ingot>, <minecraft:dye:4>, <minecraft:iron_ingot>]
+    [<minecraft:iron_ingot>, <ore:plankWood>, <minecraft:iron_ingot>],
+    [<ore:plankWood>, <minecraft:crafting_table>, <ore:plankWood>],
+    [<minecraft:iron_ingot>, <ore:plankWood>, <minecraft:iron_ingot>]
 ]);
 
 //magma blocks (vanilla)
