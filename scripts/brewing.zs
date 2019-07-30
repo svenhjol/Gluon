@@ -42,3 +42,19 @@ brewing.removeRecipe(<minecraft:splash_potion>.withTag({Potion: "minecraft:water
 
 //remove thick lingering potion
 brewing.removeRecipe(<minecraft:lingering_potion>.withTag({Potion: "minecraft:water"}), <minecraft:glowstone_dust>);
+
+//change fortitude potions from quartz to crab shell fragment
+brewing.removeRecipe(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <minecraft:quartz>);
+brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <quark:crab_shell>, <minecraft:potion>.withTag({Potion: "quark:resistance"}));
+brewing.removeRecipe(<minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}), <minecraft:quartz>);
+brewing.addBrew(<minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}), <quark:crab_shell>, <minecraft:splash_potion>.withTag({Potion: "quark:resistance"}));
+brewing.removeRecipe(<minecraft:lingering_potion>.withTag({Potion: "minecraft:awkward"}), <minecraft:quartz>);
+brewing.addBrew(<minecraft:lingering_potion>.withTag({Potion: "minecraft:awkward"}), <quark:crab_shell>, <minecraft:lingering_potion>.withTag({Potion: "quark:resistance"}));
+
+//change stability potions from crab shell fragment to soul bead
+brewing.removeRecipe(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <quark:crab_shell>);
+brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <quark:soul_bead>, <minecraft:potion>.withTag({Potion: "quark:resilience"}));
+brewing.removeRecipe(<minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}), <quark:crab_shell>);
+brewing.addBrew(<minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}), <quark:soul_bead>, <minecraft:splash_potion>.withTag({Potion: "quark:resilience"}));
+brewing.removeRecipe(<minecraft:lingering_potion>.withTag({Potion: "minecraft:awkward"}), <quark:crab_shell>);
+brewing.addBrew(<minecraft:lingering_potion>.withTag({Potion: "minecraft:awkward"}), <quark:soul_bead>, <minecraft:lingering_potion>.withTag({Potion: "quark:resilience"}));
