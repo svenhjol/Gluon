@@ -20,6 +20,10 @@ recipes.remove(<quark:sturdy_stone>);
 //remove by name
 recipes.removeByRecipeName("quark:iron_plate");
 recipes.removeByRecipeName("quark:iron_plate_1");
+recipes.removeByRecipeName("quark:slime");
+
+//rename
+<quark:color_slime>.displayName = "Magma Slime Block";
 
 //charred nether bricks
 recipes.addShaped("CTcharredbrick", <quark:charred_nether_bricks> *2, [
