@@ -85,10 +85,10 @@ recipes.addShaped("CTautocrafting", <lowtechcrafting:crafting_table>, [
 ]);
 
 //magma blocks (vanilla)
-recipes.addShaped("CTmagmablocks", <minecraft:magma> *2, [
-    [<minecraft:magma_cream>, <minecraft:magma_cream>, <minecraft:magma_cream>],
+recipes.addShaped("CTmagmablocks", <minecraft:magma> *4, [
     [<minecraft:magma_cream>, <minecraft:netherrack>, <minecraft:magma_cream>],
-    [<minecraft:magma_cream>, <minecraft:magma_cream>, <minecraft:magma_cream>]
+    [<minecraft:netherrack>, <minecraft:magma_cream>, <minecraft:netherrack>],
+    [<minecraft:magma_cream>, <minecraft:netherrack>, <minecraft:magma_cream>]
 ]);
 
 //magma bricks
