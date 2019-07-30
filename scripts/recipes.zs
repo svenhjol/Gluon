@@ -100,6 +100,9 @@ recipes.addShaped("CTmagmaslime", <quark:color_slime>, [
     [<minecraft:magma_cream>, <minecraft:magma_cream>, <minecraft:magma_cream>]
 ]);
 
+//magma slime to magma cream
+recipes.addShapeless("CTmagmacream", <minecraft:magma_cream> *9, [<quark:color_slime>]);
+
 //netherwart block to netherwart
 recipes.addShapeless("CTnetherwart", <minecraft:nether_wart> *9, [<minecraft:nether_wart_block>]);
 
