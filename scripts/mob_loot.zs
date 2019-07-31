@@ -1,6 +1,7 @@
 //remove loot from mobs
 <entity:minecraft:shulker>.clearDrops();
 <entity:minecraft:wither_skeleton>.removeDrop(<minecraft:stone_sword:*>);
+<entity:minecraft:rabbit>.removeDrop(<minecraft:rabbit_hide>);
 
 //loot additions
 <entity:minecraft:cave_spider>.addPlayerOnlyDrop(<minecraft:web> % 2.5);
