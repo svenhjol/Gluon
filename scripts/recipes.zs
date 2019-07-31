@@ -6,6 +6,7 @@ recipes.remove(<jlgm_chatbox:chatbox>);
 recipes.remove(<lowtechcrafting:crafting_table>);
 recipes.remove(<minecraft:leather>);
 recipes.remove(<minecraft:magma>);
+recipes.remove(<minecraft:tnt>);
 recipes.remove(<quark:carved_wood:*>);
 recipes.remove(<quark:color_slime:*>);
 recipes.remove(<quark:duskbound_block>);
@@ -153,4 +154,11 @@ recipes.addShaped("CTstoneslab", <minecraft:stone_slab> *6, [
 recipes.addShaped("CTsturdystone", <quark:sturdy_stone>, [
     [<minecraft:cobblestone>, <minecraft:cobblestone>],
     [<minecraft:cobblestone>, <minecraft:cobblestone>]
+]);
+
+//tnt
+recipes.addShaped("CTtnt", <minecraft:tnt> *4, [
+    [<minecraft:gunpowder>, <ore:sand>, <minecraft:gunpowder>],
+    [<ore:sand>, <minecraft:gunpowder>, <ore:sand>],
+    [<minecraft:gunpowder>, <ore:sand>, <minecraft:gunpowder>]
 ]);
