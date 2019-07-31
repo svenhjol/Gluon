@@ -4,6 +4,7 @@ import crafttweaker.item.IItemStack;
 //remove recipes
 recipes.remove(<jlgm_chatbox:chatbox>);
 recipes.remove(<lowtechcrafting:crafting_table>);
+recipes.remove(<minecraft:leather>);
 recipes.remove(<minecraft:magma>);
 recipes.remove(<quark:carved_wood:*>);
 recipes.remove(<quark:color_slime:*>);
