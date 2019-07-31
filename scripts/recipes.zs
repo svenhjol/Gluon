@@ -72,7 +72,7 @@ recipes.addShaped("CTgapple", <minecraft:golden_apple:1>, [
 ]);
 
 //iron plate
-recipes.addShaped("CTironplate", <quark:iron_plate> *16, [
+recipes.addShaped("CTironplate", <quark:iron_plate> *8, [
     [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
     [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
     [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]
