@@ -20,8 +20,10 @@ recipes.remove(<quark:polished_stone>);
 recipes.remove(<quark:sturdy_stone>);
 
 //remove by name
+recipes.removeByRecipeName("quark:hopper");
 recipes.removeByRecipeName("quark:iron_plate");
 recipes.removeByRecipeName("quark:iron_plate_1");
+recipes.removeByRecipeName("quark:purple_shulker_box");
 recipes.removeByRecipeName("quark:slime");
 
 //rename
