@@ -4,5 +4,4 @@
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
 - end city generation (probably needs to be handled by a mod)
 - potentially custom advancements
-- test if dungeon rarity feels right
 - come up with unique concepts for renewable sand, gravel and totems of undying (probably need to be handled by a mod to be more than half decent)
