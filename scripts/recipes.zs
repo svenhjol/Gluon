@@ -26,6 +26,10 @@ recipes.removeByRecipeName("quark:iron_plate_1");
 recipes.removeByRecipeName("quark:purple_shulker_box");
 recipes.removeByRecipeName("quark:slime");
 
+//remove furnace recipes
+furnace.remove(<minecraft:dye:4>);
+furnace.remove(<minecraft:redstone>);
+
 //rename
 <quark:color_slime>.displayName = "Magma Slime Block";
 
@@ -80,6 +84,9 @@ recipes.addShaped("CTironplate", <quark:iron_plate> *8, [
     [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
     [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]
 ]);
+
+//lapis lazuli in furnace 
+furnace.addRecipe(<minecraft:dye:4> *4, <minecraft:lapis_ore>, 0.200000);
 
 //lowtech crafting table
 recipes.addShaped("CTautocrafting", <lowtechcrafting:crafting_table>, [
@@ -139,6 +146,9 @@ furnace.addRecipe(<quark:polished_stone>, <minecraft:stone>, 0.100000);
 
 //quartz in furnace
 furnace.addRecipe(<minecraft:quartz>, <minecraft:ghast_tear>, 0.200000);
+
+//redstone in furnace
+furnace.addRecipe(<minecraft:redstone> *4, <minecraft:redstone_ore>, 0.700000);
 
 //saddle
 recipes.addShaped("CTsaddle", <minecraft:saddle>, [
