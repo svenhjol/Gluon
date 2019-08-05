@@ -20,6 +20,22 @@ recipes.remove(<quark:polished_stone>);
 recipes.remove(<quark:sturdy_stone>);
 
 //remove by name
+recipes.removeByRecipeName("quark:candle_2");
+recipes.removeByRecipeName("quark:candle_4");
+recipes.removeByRecipeName("quark:candle_6");
+recipes.removeByRecipeName("quark:candle_8");
+recipes.removeByRecipeName("quark:candle_10");
+recipes.removeByRecipeName("quark:candle_12");
+recipes.removeByRecipeName("quark:candle_14");
+recipes.removeByRecipeName("quark:candle_16");
+recipes.removeByRecipeName("quark:candle_18");
+recipes.removeByRecipeName("quark:candle_20");
+recipes.removeByRecipeName("quark:candle_22");
+recipes.removeByRecipeName("quark:candle_24");
+recipes.removeByRecipeName("quark:candle_26");
+recipes.removeByRecipeName("quark:candle_28");
+recipes.removeByRecipeName("quark:candle_30");
+recipes.removeByRecipeName("quark:candle_32");
 recipes.removeByRecipeName("quark:hopper");
 recipes.removeByRecipeName("quark:iron_plate");
 recipes.removeByRecipeName("quark:iron_plate_1");
