@@ -32,6 +32,6 @@ resourceloader - Resource Loader - 1.5.3
 scavenge - Scavenge - 1.8
 stg - SwingThroughGrass - 1.12.2-1.2.3
 tweakeroo - Tweakeroo - 0.10.0-dev.20190722.043420
-xaerominimap - Xaero's Minimap - 1.17.4
-xaeroworldmap - Xaero's World Map - 1.4.6
+xaerominimap - Xaero's Minimap - 1.17.5
+xaeroworldmap - Xaero's World Map - 1.4.7
 reauth - ReAuth - 3.6.0
