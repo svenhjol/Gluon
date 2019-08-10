@@ -1,5 +1,4 @@
 - investigate glitchy behaviour when trying to place blocks after loading a save
-- investigate why husks seem to use zombie sounds and regular husk sounds
 - potentially another texture for water
 - make a list of client side mods people can disable without breaking the pack (and link it on curseforge)
 - end city generation (probably needs to be handled by a mod)
